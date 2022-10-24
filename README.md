@@ -9,7 +9,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ju-tilly&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-tilly&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
+ 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Juce-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Juce-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -22,11 +22,7 @@
   <img align="center" alt="Juce-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Juce-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </div>
-
-<div> 
-  ![Snake animation](https://github.com/ju-tilly/blob/output/github-contribution-grid-snake.svg)
-</div>
-
+  
 <!---
 ju-tilly/ju-tilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
