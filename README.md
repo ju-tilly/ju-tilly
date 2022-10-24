@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juce Duarte @ju_tilly
 - 👀 I’m interested in a job.
-- 🌱 I’m currently learning Java, QA, PHP and Postgres.
+- 🌱 I’m currently learning Java, QA and Postgres.
 - 💞️ I’m looking to collaborate on any work.
 - 📫 How to reach me by e-mail juce.duarte.f@gmail.com
 
@@ -21,6 +21,10 @@
   <img align="center" alt="Juce-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img align="center" alt="Juce-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Juce-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+</div>
+
+<div> 
+  ![Snake animation](https://github.com/ju-tilly/ju-tilly/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!---
