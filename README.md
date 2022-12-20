@@ -22,6 +22,14 @@
   <img align="center" alt="Juce-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Juce-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </div>
+
+<div align="center"><br>
+  
+  Entre em contato!
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Juce_Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jucelaine-duarte-a70126125/)](https://www.linkedin.com/in/jucelaine-duarte-a70126125/)
+  [![Gmail Badge](https://img.shields.io/badge/-juce.duarte.f@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juce.duarte.f@gmail.com)](mailto:juce.duarte.f@gmail.com)
+</div>
   
 <!---
 ju-tilly/ju-tilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
